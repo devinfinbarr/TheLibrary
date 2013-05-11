@@ -1,8 +1,7 @@
-TheLibrary
+The Library
 ==========
 
-Carefully curated reading lists covering every subject in existence.
-
+Carefully curated reading lists covering the best 1,200 pages written every subject in existence.
 
 
 What makes TheLibrary special?
