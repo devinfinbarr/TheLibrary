@@ -1,0 +1,10 @@
+
+ 
+
+<ul id="categories-menu">
+  {% for cat in all_categories %}
+  <li class="level-{{cat.level}}" class="{% if cat.url == category.url %}active-page{% endif %} {% if category.url.startswith(cat.url) %}active-branch{% endif %}">
+    <a href="{{ cat.url }}">{{ cat.title}} {% if cat.readings %}<span class=""></span>{% endif %}</a>
+  </li>
+  {% endfor %}
+</ul>
