@@ -1,1 +1,71 @@
 The American Revolution 1763 to 1790
+summary:
+Covering the lead up to the revolution.
+end-summary
+
+*****************
+title:The American Revolution, 1763-1783: Being the Chapters and Passages Relating
+author: Lecky, William Edward Hartpole
+free-link:http://books.google.com/books?id=BIsdAAAAMAAJ&printsec=titlepage#v=onepage&q&f=false
+publish-date:1898
+pages:501
+summary:
+Lecky's history is exhaustive and fair.  He brings criticism of both sides where it is due, and adds many details missed by standard histories.
+end-summary
+****************
+title:The True History of the American Revolution
+author:Fisher, Sydney George
+publish-date:1902
+free-link:http://books.google.com/books?id=SZccAAAAMAAJ
+selection:Chapter 8
+pages:27
+summary:
+
+end-summary
+****************
+title:A gentle introduction to Unqualified Reservations (part 2)
+free-link:http://unqualified-reservations.blogspot.com/2009/01/gentle-introduction-to-unqualified_15.html
+author:Moldbug, Mencius
+publish-date:2009-01-15
+pages:21
+summary:
+Moldbug quotes extensively from a set of tory works from the American Revolution.
+end-summary
+****************
+title:Strictures upon the Declaration of Independence
+author:Hutchinson, Thomas
+publish-date:1776
+pages:34
+summary:
+The governor of Hutchinson writes a rebuttal to the Declaration of Independence
+end-summary
+********
+title:Common Sense
+author:Paine, Thomas
+publish-date:1776-02-14
+free-link:http://oll.libertyfund.org/?option=com_staticxt&staticfile=show.php%3Ftitle=343&chapter=17023&layout=html&Itemid=27
+pages:64
+summary:
+The manifesto of the American rebels.
+end-summary
+************
+title:The History of the Origin, Progress, and Termination of the American War
+free-link:http://books.google.com/books?id=bmQFAAAAQAAJ
+publish-date:1794
+summary:
+Not only was Stedman a Colonel in the British Army, he was born in Philadelphia - and commanded a Loyalist corps against the rebel forces. Moreover, he is a trained lawyer and clearly has read his Thucydides, of whom his tone and content are quite reminiscent.  Colonel Stedman's history is accurate, clear, and not at all dry.  Volume 2 is here: http://books.google.com/books?id=h2QFAAAAQAAJ
+***************
+title:The Ideological Origins of the American Revolution
+author:Bailyn, Bernard
+free-link:http://www.amazon.com/Ideological-Origins-American-Revolution/dp/0674443020
+
+
+#################################
+http://archive.org/details/peteroliversorig007727mbp    
+
+
+http://articles.washingtonpost.com/2011-07-01/entertainment/35237439_1_new-edition-american-revolution-paperback
+
+http://www.amazon.com/The-Glorious-Cause-Revolution-1763-1789/dp/0195035755/ref=cm_lmf_tit_3
+
+http://www.amazon.com/Republic-1763-89-Chicago-American-Civilization/dp/0226537579/ref=cm_lmf_tit_4

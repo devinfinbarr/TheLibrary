@@ -132,8 +132,23 @@ class Category(object):
         if not directory_name:
             self.path = ''
             self.url = '/root.html'
-
         
+    @property
+    def total_pages(self):
+        total = 0
+        for reading in self.readings:
+            if str(reading.pages).isdigit():
+                total += int(reading.pages)
+        return total
+
+    @property
+    def total_percent_formatted(self):
+        val = int(100 * self.total_pages / 1200.0)
+        print "VAL ", val
+        if val:
+            return '%s%%' % val
+        else:
+            return '-'
 
 class Reading(object):
     def __init__(
@@ -145,7 +160,8 @@ class Reading(object):
             free_link='',
             paid_link='',
             summary='',
-            notes=''
+            notes='',
+            pages=0,
             ):
         self.title = title
         self.author = author
@@ -155,6 +171,7 @@ class Reading(object):
         self.paid_link = paid_link
         self.summary = summary
         self.notes = notes
+        self.pages = pages
         
     
 

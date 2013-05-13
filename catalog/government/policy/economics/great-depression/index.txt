@@ -1,1 +1,23 @@
 The Great Depression
+
+**************************
+title:A Summary/Explanation of John Maynard Keynes’ General Theory
+author:Swartz, Aaron
+free-link:http://www.aaronsw.com/weblog/generaltheory
+summary
+Aaron breaks down the general theory into a more understandable summary.  A good companion to actually reading the book.
+end-summary
+***********************
+title:The General Theory of Employment, Interest and Money
+author:Keynes, John Maynard
+free-link:http://www.marxists.org/reference/subject/economics/keynes/general-theory/
+paid-link:http://www.amazon.com/General-Theory-Employment-Interest-Money/dp/1467934925
+
+**************************
+title:America’s Great Depression
+author:Rothbard, Murray
+free-link:http://mises.org/rothbard/agd.pdf
+pages:343
+summary:
+end-summary
+**************************

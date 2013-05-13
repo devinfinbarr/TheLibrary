@@ -59,6 +59,7 @@ Harsh, realist advice for women.
 end-summary
 ****************************
 title:What To Do When A Girl Starts Crying For No Reason
+author:Heartiste
 publish-date:2009-10-20
 free-link:http://heartiste.wordpress.com/2009/10/20/what-to-do-when-a-girl-starts-crying-for-no-reason/
 pages:2
@@ -66,21 +67,80 @@ summary:
 end-summary
 *********************************
 title:The Ideal Lover Can Never Be The Great Boyfriend
+author:Heartiste
 free-link:09/12/02/the-ideal-lover-can-never-be-the-great-boyfriend/
 publish-date:2009-12-02
 pages:3
-******************************
-title:Dennis Kucinich
-free-link:http://heartiste.wordpress.com/2007/06/07/dennis-kucinich-alpha-male/
-publish-date:2007-06-07
 *****************************
 title:Love
+author:Heartiste
 free-link:http://heartiste.wordpress.com/2007/07/06/love/
 publish-date:2007-07-06
 *********************************
-title:
+title:Relationship Game Week: A Reader’s Journey
+author:Heartiste
+pages:14
+free-link:http://heartiste.wordpress.com/2009/08/14/relationship-game-week-a-readers-journey/
+publish-date:2009-08-14
+summary:
+A man explains how he dramatically improved the happiness and sex life in his marriage.
+end-summary
+****************************************
+title:Relationship Game Week: Agree And Amplify
+author:heartiste
 free-link:http://heartiste.wordpress.com/2009/08/13/relationship-game-week-agree-and-amplify/
-
-
-###############################
-http://heartiste.wordpress.com/2009/05/20/self-defeating-romantic-lines-you-should-never-say/
+pages:4
+publish-date:2009-08-13
+*****************************************
+title:Self-Defeating “Romantic” Lines You Should Never Say
+author:Heartiste
+free-link:http://heartiste.wordpress.com/2009/05/20/self-defeating-romantic-lines-you-should-never-say/
+pages:1
+publish-date:2009-08-13
+******************************************
+title:The Easiest Way To Revive A Flagging Relationship
+author:Heartiste
+free-link:http://heartiste.wordpress.com/2009/11/23/the-easiest-way-to-revive-a-flagging-relationship/
+publish-date:2009-11-23
+pages:4
+*******************************************
+title:Relationship Game: Tender Lovemaking Edition
+author:Heartiste
+free-link:http://heartiste.wordpress.com/2009/04/14/relationship-game-tender-lovemaking-edition/
+publish-date:2009-08-14
+pages:4
+********************************************
+title:Relationship Game Week: Subtle Dominance Plays
+author:Heartiste
+free-link:http://heartiste.wordpress.com/2009/08/11/relationship-game-week-subtle-dominance-plays/
+publish-date:2009-08-11
+pages:5
+**********************************************
+title:The Easiest Way To Revive A Flagging Relationship
+author:Heartiste
+free-link:http://heartiste.wordpress.com/2009/11/23/the-easiest-way-to-revive-a-flagging-relationship/
+publish-date:2009-11-23
+pages:1
+*******************************
+title:Romance 101: How to stop frustrating your wife.
+free-link:http://dalrock.wordpress.com/2012/11/30/romance-101-how-to-stop-frustrating-your-wife/
+publish-date:2012-11-30
+author:Dalrock
+pages:6
+***********************************************
+title:Lovestruck
+free-link:http://dalrock.wordpress.com/2013/04/15/lovestruck/
+author:Dalrock
+publish-date:2013-04-15
+summary:
+How modern culture has made romantic love more moral than marriage.
+end-summary
+***********************************
+title:She felt unloved
+free-link:http://dalrock.wordpress.com/2011/11/21/she-felt-unloved/
+author:Dalrock
+publish-date:2011-11-21
+pages:5
+summary:
+end-summary
+********************************

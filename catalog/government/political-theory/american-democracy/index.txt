@@ -1,1 +1,24 @@
-Democracy in America
+Power and Democracy in America
+summary
+An investigation of the history and present of American government.  We investigate how democracy works in design in practice.  We examine how power politics has actually worked throughout American history.
+end-summary
+
+*************************************
+title:The genius of the New Deal design
+publish-date:2007-05-02
+free-link:http://unqualified-reservations.blogspot.com/2007/05/genius-of-new-deal-design.html
+pages:13
+**********************
+title:The iron polygon: power in the United States
+free-link:http://unqualified-reservations.blogspot.com/2007/05/iron-polygon-power-in-united-states.html
+pages:12
+**********************************
+title:Separation of information and security
+
+free-link:http://unqualified-reservations.blogspot.com/2007/06/separation-of-information-and-security.html
+******************************
+title:Democracy as Adaptive Fiction
+free-link:http://unqualified-reservations.blogspot.com/2007/07/democracy-as-adaptive-fiction.html
+**************************
+title:Why conservatives never quite catch the boat
+free-link:http://unqualified-reservations.blogspot.com/2007/06/why-conservatives-never-quite-catch.html

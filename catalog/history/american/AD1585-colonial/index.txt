@@ -1,1 +1,20 @@
 Colonial American History until 1763
+summary:
+
+end-summary
+
+*****************
+title:The Barbarous Years: The Peopling of British North America: The Conflict of Civilizations, 1600-1675
+author:Bailyn, Bernard
+pages:642
+paid-link:http://www.amazon.com/Barbarous-Years-Civilizations-1600-1675-ebook/dp/B0082XLXOO/
+Reviewer Stanley Crowe writes: "To a reader like myself who's fairly familiar with aspects of British and Irish history but hardly at all with American history, especially early stuff, this is fascinating. I didn't know that the earliest efforts to colonize Virginia were such a disaster -- people were dying like flies over there, even as entrepreneurs sought recruits to sail to new lives in what was presented as a terrestrial paradise. The lure of land, the development of the tobacco trade, and later the fur trade, the relations with the indigenous peoples, the blending of religious and commercial motives, the context for the behavior of the natives -- Bailyn lays it all out very deftly, blending a chronological organization with a geographical one."
+*****************
+title:Albion's Seed: Four British Folkways in America
+paid-link:http://www.amazon.com/Albions-Seed-Folkways-cultural-ebook/dp/B000SEKM9C
+pages:955
+author:Fischer, David Hackett
+summary:
+From reviewer Leonard Wilson: "Albion's Seed by Brandeis University History Professor David Hackett Fischer is the history of the four main regional migrations from Britain to North America in the 17th and 18th centuries. Professor Fischer examines each of these four migrations in great detail, describing the origin, motivations, religion, timing, and numerous cultural attitudes or folkways for dealing with everyday life, including birth, child rearing, marriage, age, death, order, speech, architecture, dress, food, wealth, and time, to cite only a few. He devotes special attention to the different concepts of liberty and freedom held by each of these four British cultural groups."
+end-summary
+******************

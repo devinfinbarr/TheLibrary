@@ -1,10 +1,10 @@
 
- 
 
 <ul id="categories-menu">
   {% for cat in all_categories %}
   <li class="level-{{cat.level}}" class="{% if cat.url == category.url %}active-page{% endif %} {% if category.url.startswith(cat.url) %}active-branch{% endif %}">
-    <a href="{{ cat.url }}">{{ cat.title}} {% if cat.readings %}<span class=""></span>{% endif %}</a>
+    <a class="category-link" href="{{ cat.url }}">{{ cat.title}}</a>
+    <span class="percent-complete">{{ cat.total_percent_formatted }} {{ cat.total_pages }}</span>  
   </li>
   {% endfor %}
 </ul>
